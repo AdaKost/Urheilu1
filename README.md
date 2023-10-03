@@ -4,7 +4,7 @@ Ada Kostensalo
 
 ## Huomioita
 
-Koko skripti on yhdessä tiedostossa H3.js. Tiedostossa on ensin Henkilö-luokka, sitten sen perivä urheilija-luokka ja lopuksi kaksi esimerkkiesiintymää urheilija-oliosta. Esimerkkinä myös yhden urheilijan painoa muutetaan.
+Koko skripti on yhdessä tiedostossa H3.js. Tiedostossa on ensin Henkilö-luokka, sitten sen perivä urheilija-luokka ja lopuksi kaksi esimerkkiesiintymää urheilija-oliosta. Esimerkkinä myös yhden urheilijan painoa muutetaan. Kehitysblogi ja huomiot ovat markdownilla kirjoitettuna tässä README.md tiedostossa.
 
 Ohjelma oli erittäin lyhyt, joten kehitysvaiheessa ei näy useampaa commit-toimitusta.
 
